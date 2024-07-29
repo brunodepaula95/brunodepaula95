@@ -1,6 +1,4 @@
 👋 Olá me chamo Bruno, sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Taquaritinga.
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/bruno-henrique-de-paula-421aab139/
-
 🌱 Em constante evolução nos estudos!
 
 
