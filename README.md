@@ -9,7 +9,7 @@ JavaScript | Java | Seg. Informação
 
 ##
 
-Um pouco das tecnologias das quais possuo conhecimento teórico e prático:
+Um pouco das tecnologias das quais tenho experiência prática e conhecimento teórico:
 <div style="display: inline-block">
 <img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 <img align="center" alt="Illus" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
@@ -22,11 +22,10 @@ Um pouco das tecnologias das quais possuo conhecimento teórico e prático:
 <img align="center" alt="Css" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Git" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="GitH" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
 </div>
 
 
-
+##
 Possuo conhecimento:
 <div style="display: inline-block">
 <img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
