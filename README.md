@@ -28,9 +28,9 @@ Um pouco das tecnologias das quais tenho experiência prática e conhecimento te
 ##
 Possuo conhecimento:
 <div style="display: inline-block">
-<img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-<img align="center" alt="Ubun" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img align="center" alt="After" height="23" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="After" height="23" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="center" alt="Ubun" height="23" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
 ##
