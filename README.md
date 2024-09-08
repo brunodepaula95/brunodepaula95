@@ -26,11 +26,11 @@ Um pouco das tecnologias das quais possuo conhecimento teórico e prático:
 </div>
 
 Possuo conhecimento:
-<div style="display: inline-block"></div>
+<div style="display: inline-block">
 <img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="After" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img align="center" alt="Ubun" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-
+</div>
 
 ##
 Redes sociais:
