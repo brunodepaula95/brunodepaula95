@@ -5,7 +5,7 @@
 
 # Estou estudando no momento:
 
-JavaScript | Java | Seg. Informação
+React | Java | Scrum | Go
 
 ##
 
@@ -20,6 +20,7 @@ Um pouco das tecnologias das quais tenho experiência prática e conhecimento te
 <img align="center" alt="Gimp" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <img align="center" alt="Html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="Css" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="Css" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Git" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="GitH" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
