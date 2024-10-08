@@ -5,7 +5,7 @@
 
 # Estou estudando no momento:
 
-React | Java | Scrum | Go
+React | Vue | Go
 
 ##
 
